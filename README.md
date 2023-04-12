@@ -3,10 +3,10 @@
 
 
 ## Table of Contents
-* [Analysis steps](#Analysis Steps)
-* [Data Visualisation](#Data Visualisation)
+* [Analysis steps](#Analysis-Steps)
+* [Data Visualisation](#Data-Visualisation)
 * [Conclusions](#Conclusions)
-* [Tools Used](#Tools Used)
+* [Tools Used](#Tools-Used)
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## Analysis Steps
