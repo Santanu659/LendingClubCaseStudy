@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> Lending Club Case Study is a data analysis and visualization project in which data from different different applicants have been studied to find out the probable reason for default cases.
+> Lending Club Case Study is a data analysis and visualization project in which data from different applicants have been studied to find out the probable reason for default cases.
 
 
 ## Table of Contents
