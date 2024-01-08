@@ -41,7 +41,7 @@
 
 ## Acknowledgements
 
-- This project is being done as a part of the MS course curriculum.
+- This project is being done as a part of the Executive Post Graduation Program.
 
 
 ## Contact
